@@ -1,0 +1,5 @@
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\bin\Debug\TestProject1.dll
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\bin\Debug\TestProject1.pdb
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Debug\TestProject1.dll
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Debug\TestProject1.pdb

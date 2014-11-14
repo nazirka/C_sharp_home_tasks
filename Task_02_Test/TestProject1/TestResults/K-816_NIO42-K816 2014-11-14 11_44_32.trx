@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="36a8a0aa-0f3b-4973-8fed-4f285c6707a1" name="K-816@NIO42-K816 2014-11-14 11:44:32" runUser="NIO42-K816\K-816" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Параметры тестирования по умолчанию" id="a0340168-0930-4523-a6d7-d65a0ba1fc48">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="K-816_NIO42-K816 2014-11-14 11_44_32" />
+  </TestSettings>
+  <Times creation="2014-11-14T11:44:32.5781250+03:00" queuing="2014-11-14T11:44:33.2500000+03:00" start="2014-11-14T11:44:33.3437500+03:00" finish="2014-11-14T11:47:54.2656250+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Text" storage="d:\mastercsharp\repository\c_sharp_home_tasks\task_02_test\testproject1\bin\debug\testproject1.dll" id="5ec6f7b3-8ab1-7be4-af25-a5523f9c6c1b">
+      <Execution id="762a1e7e-6b62-47a7-9189-f782a3599431" />
+      <TestMethod codeBase="D:/MasterCsharp/Repository/C_sharp_home_tasks/Task_02_Test/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Text" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5ec6f7b3-8ab1-7be4-af25-a5523f9c6c1b" executionId="762a1e7e-6b62-47a7-9189-f782a3599431" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="762a1e7e-6b62-47a7-9189-f782a3599431" testId="5ec6f7b3-8ab1-7be4-af25-a5523f9c6c1b" testName="Test_Text" computerName="NIO42-K816" duration="00:03:20.1777978" startTime="2014-11-14T11:44:33.4531250+03:00" endTime="2014-11-14T11:47:54.1875000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="762a1e7e-6b62-47a7-9189-f782a3599431">
+    </UnitTestResult>
+  </Results>
+</TestRun>

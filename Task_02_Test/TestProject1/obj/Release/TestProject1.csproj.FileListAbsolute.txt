@@ -1,0 +1,5 @@
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Release\ResolveAssemblyReference.cache
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\bin\Release\TestProject1.dll
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\bin\Release\TestProject1.pdb
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Release\TestProject1.dll
+D:\MasterCsharp\Repository\C_sharp_home_tasks\Task_02_Test\TestProject1\obj\Release\TestProject1.pdb
